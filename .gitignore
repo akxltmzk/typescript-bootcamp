@@ -1,2 +1,5 @@
-node_modules
-*.js
+# MacOS
+.DS_Store
+
+# vscode
+.vscode
